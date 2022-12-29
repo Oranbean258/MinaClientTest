@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinaClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinaClient_jar</output-path>
+    <root id="archive" name="MinaClient.jar">
+      <element id="module-output" name="MinaClient" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MavenLocalRepo/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MavenLocalRepo/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MavenLocalRepo/ch/qos/reload4j/reload4j/1.2.19/reload4j-1.2.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MavenLocalRepo/org/apache/mina/mina-core/2.2.1/mina-core-2.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MavenLocalRepo/javax/activation/activation/1.1/activation-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MavenLocalRepo/javax/jms/jms/1.1/jms-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MavenLocalRepo/org/slf4j/slf4j-reload4j/1.7.36/slf4j-reload4j-1.7.36.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: ch.qos.reload4j:reload4j:1.2.19" />
+      <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+      <element id="library" level="project" name="Maven: javax.jms:jms:1.1" />
+      <element id="library" level="project" name="Maven: javax.mail:mailapi:1.4.3" />
+      <element id="library" level="project" name="Maven: org.apache.mina:mina-core:2.2.1" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.36" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-reload4j:1.7.36" />
+      <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.24" />
+    </root>
+  </artifact>
+</component>
